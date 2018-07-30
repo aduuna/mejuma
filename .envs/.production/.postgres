@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=mejuma
+POSTGRES_USER=ptMHYXPmIfSxdtnQBPcVxZhJAQhhRSnp
+POSTGRES_PASSWORD=VY7NXju4ksGPnm005xtpKAC5BJYuTtbjmzJSlBWXL01tTcIlBFOKSBYTv4JwMD0i
