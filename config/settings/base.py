@@ -71,7 +71,7 @@ THIRD_PARTY_APPS = [
 ]
 LOCAL_APPS = [
     'mejuma.users.apps.UsersAppConfig',
-    'mejuma.jobs'
+    'mejuma.jobs.apps.JobsConfig',
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
